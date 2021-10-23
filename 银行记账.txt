@@ -1,4 +1,3 @@
-package ch3;
 import java.util.Date;
 public class Account{
     private string id,name;
